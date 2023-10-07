@@ -1,6 +1,6 @@
 ######################################################################################
 #  Script Python escrito em 07/10/2023 por Nicolas Pereira no Jetbrains Pycharm      #
-#  Exercício Numero '4' do curso cursoemvideo.com                                    #
+#  Exercício Numero '5' do curso cursoemvideo.com                                    #
 #  crie um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo #
 ######################################################################################
 print('Programa que mostra informações sobre o input')         # Print em tela da descrição do script
