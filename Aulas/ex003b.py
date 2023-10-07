@@ -14,10 +14,10 @@ print('O valor int é: ', i)                                    # Print exibe co
 print('O valor int é: {}' .format(i))                          # Print exibe dentro da string a variável i python3
 f = float(input('Digite um Float: '))                          # a variável "f" Recebe um valor Float do teclado
 print('Qual classe?: ',type(f))                                # Print identifica o tipo de variável f
-print('é numero?: ', f.is_integer())                           # Print identifica se é numero a variável f                                               # Print identifica o tipo de variável f
+print('é numero?: ', f.is_integer())                           # Print identifica se é numero a variável f                                          
 print('O valor float é: ', f)                                  # Print exibe concatenada a variável f python2
 print('O valor int é: {}' .format(f))                          # Print exibe dentro da string a variável f python3
 b = bool(input('Digite um boolean: '))                         # a variável "b" Recebe um valor boolean do teclado
-print('Qual classe?: ',type(b))                                # Print identifica o tipo de variável b                                           # Print identifica o tipo de variável b
+print('Qual classe?: ',type(b))                                # Print identifica o tipo de variável b            
 print('O valor boolean é: ', b)                                # Print exibe concatenada a variável b python2
 print('O valor salvo é: {}' .format(b))                        # Print exibe dentro da string a variável b python3
