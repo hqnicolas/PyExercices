@@ -1,6 +1,6 @@
 ######################################################################################
 #  Script Python escrito em 08/10/2023 por Nicolas Pereira no Jetbrains Pycharm      #
-#  Exercício Numero '9' do curso cursoemvideo.com da aula 7 de operadores            #
+#  Exercício Numero '10' do curso cursoemvideo.com da aula 7 de operadores           #
 #  Operadores Aritiméticos: ||| + ||| - | * ||| / ||| ** ||| // ||| % ||| == |||     #
 #  Simbolo de igualdade para resultados  ==                                          #
 ######################################################################################
