@@ -4,7 +4,7 @@
 #  Operadores Aritiméticos: ||| + ||| - | * ||| / ||| ** ||| // ||| % ||| == |||     #
 #  Simbolo de igualdade para resultados  ==                                          #
 ######################################################################################
-# um script que leia um numero inteiro qualquer e mosrte na tela a sua tabuada       #
+# um script que leia um numero inteiro qualquer e mostre na tela a sua tabuada       #
 ######################################################################################
 print('Calculadora de Tabuada')                                    # Apresentação do Script
 n = int(input("Digite um número inteiro: "))                       # Solicita ao usuário que insira um número inteiro
