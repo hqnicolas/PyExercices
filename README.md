@@ -15,3 +15,11 @@
 - ex015.py Desafio 13 Reajuste Salarial
 - ex016.py Desafio 14 Conversor de Temperaturas
 - ex017.py Desafio 15 Aluguel de Carros
+# Modulos Python
+- main.py Utilizando Módulos
+- ex000.py Desafio 16 Quebrando um número
+- ex001.py Desafio 17 Catetos e Hipotenusa
+- ex002.py Desafio 18 Seno, Cosseno e Tangente
+- ex003.py Desafio 19 Sorteando um item na lista
+- ex004.py Desafio 20 Sorteando uma ordem na lista
+- ex005.py Desafio 21 Tocando um MP3
