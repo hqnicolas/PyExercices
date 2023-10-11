@@ -24,6 +24,7 @@
 - ex004.py Desafio 20 Sorteando uma ordem na lista
 - ex005.py Desafio 21 Tocando um MP3
   # Manipulando Texto
+- main.py Manipulando Texto
 - ex001.py Desafio 22 Analisador de Textos
 - ex002.py Desafio 23 Separando dígitos de um número
 - ex003.py Desafio 24 Verificando as primeiras letras de um texto
