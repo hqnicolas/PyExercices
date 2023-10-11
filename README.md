@@ -23,3 +23,10 @@
 - ex003.py Desafio 19 Sorteando um item na lista
 - ex004.py Desafio 20 Sorteando uma ordem na lista
 - ex005.py Desafio 21 Tocando um MP3
+  # Manipulando Texto
+- ex001.py Desafio 22 Analisador de Textos
+- ex002.py Desafio 23 Separando dígitos de um número
+- ex003.py Desafio 24 Verificando as primeiras letras de um texto
+- ex004.py Desafio 25 Procurando uma string dentro de outra
+- ex005.py Desafio 26 Primeira e última ocorrência de uma string
+- ex006.py Desafio 27 Primeiro e último nome de uma pessoa
