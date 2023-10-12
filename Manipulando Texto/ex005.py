@@ -7,8 +7,8 @@
 # Em que posição ela aparece a primeira vez.                                         #
 # Em que posição ela aparece a ultima vez.                                           #
 ######################################################################################
-i = input('Digite um frase: ')           # Solicita ao usuário que digite uma frase e armazena a entrada em 'i'
-f = i.lower()                            # Converte a frase para letras minúsculas (para não diferenciar maiúsculas de minúsculas)
+i = str(input('Digite um frase: '))      # Solicita ao usuário que digite uma frase e armazena a entrada em 'i'
+f = i.lower().strip()                    # Converte a frase para letras minúsculas (para não diferenciar maiúsculas de minúsculas)
 a1 = f.count('a')                        # Conta quantas vezes a letra 'a' aparece na frase em minúsculas
 p1 = f.find('a') +1                      # Encontra a posição (índice) da primeira ocorrência da letra 'a' e ajusta para começar de 1
 p2 = f.rfind('a') +1                     # Encontra a posição (índice) da última ocorrência da letra 'a' e ajusta para começar de 1

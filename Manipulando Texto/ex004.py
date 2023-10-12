@@ -4,6 +4,7 @@
 ######################################################################################
 # Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome   #
 ######################################################################################
-n = input('Digite seu nome: ')                    #Solicita ao usuário digitar o nome
+i = input('Digite seu nome: ')                    #Solicita ao usuário digitar o nome
+n = i.lower().strip()                             #Converte a frase para letras minúsculas (para não diferenciar maiúsculas de minúsculas)
 s = n.count('silva')                              #verifica a presença de silva no nome
 print('O nome {}, contém {} silva'.format(n, s))  #Exibe o resultado da verificação

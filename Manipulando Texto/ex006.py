@@ -8,7 +8,7 @@
 # Primeiro = Ana                                                                     #
 # Ultimo = Souza                                                                     #
 ######################################################################################
-i = input('Digite o nome completo: ')                     # Solicita ao usuário que digite um nome completo e armazena a entrada em 'i'
+i = input('Digite o nome completo: ').strip()                     # Solicita ao usuário que digite um nome completo e armazena a entrada em 'i'
 print('que nome grande!\n vamos abreviar...')
 n = i.split()                                             # Divide o nome completo em palavras separadas com base nos espaços em branco
 print('Primeiro: {} \n Ultimo: {}'.format(n[0], n[-1]))   # Imprime o primeiro nome (primeiro elemento da lista) e o último nome (último elemento da lista)
