@@ -41,5 +41,5 @@
 - ex001.py Desafio 33 Maior e menor valores
 - ex001.py Desafio 34 Aumentos múltiplos
 - ex001.py Desafio 35 Analisando Triângulo v1.0
-# Certificado do Modulo "iniciante em Python"
-- Desafio Online Respondido
+# Certificados do Modulo
+- Desafio iniciante em Python
