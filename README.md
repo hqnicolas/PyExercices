@@ -31,3 +31,15 @@
 - ex004.py Desafio 25 Procurando uma string dentro de outra
 - ex005.py Desafio 26 Primeira e última ocorrência de uma string
 - ex006.py Desafio 27 Primeiro e último nome de uma pessoa
+# Condições em Python
+- main.py representação estruturada
+- ex001.py Desafio 28 Jogo da Adivinhação v.1.0
+- ex001.py Desafio 29 Radar eletrônico
+- ex001.py Desafio 30 Par ou Ímpar?
+- ex001.py Desafio 31 Custo da Viagem
+- ex001.py Desafio 32 Ano Bissexto
+- ex001.py Desafio 33 Maior e menor valores
+- ex001.py Desafio 34 Aumentos múltiplos
+- ex001.py Desafio 35 Analisando Triângulo v1.0
+# Certificado do Modulo "iniciante em Python"
+- Desafio Online Respondido
