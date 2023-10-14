@@ -48,5 +48,16 @@
 - [ex006.py Desafio 33 Maior e menor valores](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex006.py)
 - [ex007.py Desafio 34 Aumentos múltiplos](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex007.py)
 - [ex008.py Desafio 35 Analisando Triângulo v1.0](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex008.py)
+# Condições Aninhadas em Python (if..elif)
+- ex001.py Desafio 36 Aprovando Empréstimo
+- ex002.py Desafio 37 Conversor de Bases Numéricas
+- ex003.py Desafio 38 Comparando números
+- ex004.py Desafio 39 Alistamento Militar
+- ex005.py Desafio 40 Aquele clássico da Média
+- ex006.py Desafio 41 Classificando Atletas
+- ex007.py Desafio 42 Analisando Triângulos v2.0
+- ex008.py Desafio 43 Índice de Massa Corporal
+- ex009.py Desafio 44 Gerenciador de Pagamentos
+- ex010.py Desafio 45 GAME: Pedra Papel e Tesoura
 # Certificados do Modulo
 - [Desafio iniciante em Python](https://github.com/hqnicolas/PyExercices/blob/main/Certificados/Python_Basico.jpg) [(Avaliação)](https://github.com/hqnicolas/PyExercices/blob/main/Certificados/Python_Basico_Avalia%C3%A7%C3%A3o.jpg)
