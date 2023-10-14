@@ -1,4 +1,4 @@
-2########################################################################################################################
+########################################################################################################################
 #  Script Python escrito em 13/10/2023 por Nicolas Pereira no Jetbrains Pycharm                                        #
 #  1ª aula de nível médio do curso de python cursoemvideo.com Desafio 37 condições e Repetições de codigo              #
 ########################################################################################################################
@@ -10,8 +10,17 @@
 n = int(input('* Digite um número inteiro: '))
 o = int(input('* Qual será a base de conversão?\n* Digite 1 para Binário.\n* Digite 2 para Octal.\n* Digite 3 para Hexadecimal: '))
 if o == 1:
-    print('O valor {} em binário é: {}'.format(n ,bin(n)))
+    print('* O valor {} em binário é: {}'.format(n, bin(n)[2:]))
 elif o == 2:
-    print('O valor {} em Octal é: {}'.format(n ,oct(n)))
+    print('* O valor {} em Octal é: {}'.format(n, oct(n)[2:]))
 elif o == 3:
-    print('O valor {} em binário é: {}'.format(n, hex(n)))
+    print('* O valor {} em binário é: {}'.format(n, hex(n)[2:]))
+
+#######################################################################
+# [2:] exibe á partir do segundo caractere da variável string
+# usando o método de fatiamento de string da aula 10
+# removendo assim o "0b" do binário, "0x" do Hexadecimal e "0o" do octal.
+#######################################################################
+# função oct() padrão do python converte a variável n em octal
+# função bin() padrão do python converte a variável n em binário
+# função hex() padrão do python converte a variável n em hexadecimal
