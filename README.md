@@ -3,7 +3,7 @@
 - Aulas Proferidas pelo www.cursoemvideo.com
 - Primeiros passos com o Python
 - Tratando dados e fazendo contas
-# Operadores Aritméticos
+# [Operadores Aritméticos](https://github.com/hqnicolas/PyExercices/tree/main/Operadores%20Aritm%C3%A9ticos)
 - [ex007a.py Desafio 5 Antecessor e Sucessor](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex007a.py)
 - [ex007b.py Desafio 5 Antecessor e Sucessor](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex007b.py)
 - [ex008a.py Desafio 6 Dobro, Triplo, Raiz Quadrada](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex008a.py)
@@ -19,14 +19,15 @@
 - [ex015.py Desafio 13 Reajuste Salarial](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex015.py)
 - [ex016.py Desafio 14 Conversor de Temperaturas](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex016.py)
 - [ex017.py Desafio 15 Aluguel de Carros](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex017.py)
-# Modulos Python
-- main.py Utilizando Módulos
-- ex000.py Desafio 16 Quebrando um número
-- ex001.py Desafio 17 Catetos e Hipotenusa
-- ex002.py Desafio 18 Seno, Cosseno e Tangente
-- ex003.py Desafio 19 Sorteando um item na lista
-- ex004.py Desafio 20 Sorteando uma ordem na lista
-- ex005.py Desafio 21 Tocando um MP3
+# [Modulos Python](https://github.com/hqnicolas/PyExercices/tree/main/modulos)
+- [main.py Utilizando Módulos](https://github.com/hqnicolas/PyExercices/blob/main/modulos/main.py)
+- [ex000.py Desafio 16 Quebrando um número](https://github.com/hqnicolas/PyExercices/blob/main/modulos/ex000.py)
+- [ex001a.py Desafio 17 Catetos e Hipotenusa](https://github.com/hqnicolas/PyExercices/blob/main/modulos/ex001a.py)
+- [ex001b.py Desafio 17 Catetos e Hipotenusa](https://github.com/hqnicolas/PyExercices/blob/main/modulos/ex001b.py)
+- [ex002.py Desafio 18 Seno, Cosseno e Tangente](https://github.com/hqnicolas/PyExercices/blob/main/modulos/ex002.py)
+- [ex003.py Desafio 19 Sorteando um item na lista](https://github.com/hqnicolas/PyExercices/blob/main/modulos/ex003.py)
+- [ex004.py Desafio 20 Sorteando uma ordem na lista](https://github.com/hqnicolas/PyExercices/blob/main/modulos/ex004.py)
+- [ex005.py Desafio 21 Tocando um MP3](https://github.com/hqnicolas/PyExercices/blob/main/modulos/ex005.py)
   # Manipulando Texto
 - main.py Manipulando Texto
 - ex001.py Desafio 22 Analisador de Textos
