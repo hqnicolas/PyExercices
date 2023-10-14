@@ -4,17 +4,21 @@
 - Primeiros passos com o Python
 - Tratando dados e fazendo contas
 # Operadores Aritméticos
-- [ex007.py Desafio 5 Antecessor e Sucessor](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex007a.py)
-- ex008.py Desafio 6 Dobro, Triplo, Raiz Quadrada
-- ex009.py Desafio 7 Média Aritmética
-- ex010.py Desafio 8 Conversor de Medidas
-- ex011.py Desafio 9 Tabuada
-- ex012.py Desafio 10 Conversor de Moedas
-- ex013.py Desafio 11 Pintando Parede
-- ex014.py Desafio 12 Calculando Descontos
-- ex015.py Desafio 13 Reajuste Salarial
-- ex016.py Desafio 14 Conversor de Temperaturas
-- ex017.py Desafio 15 Aluguel de Carros
+- [ex007a.py Desafio 5 Antecessor e Sucessor](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex007a.py)
+- [ex007b.py Desafio 5 Antecessor e Sucessor](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex007b.py)
+- [ex008a.py Desafio 6 Dobro, Triplo, Raiz Quadrada](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex008a.py)
+- [ex008b.py Desafio 6 Dobro, Triplo, Raiz Quadrada](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex008b.py)
+- [ex009.py Desafio 7 Média Aritmética](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex009.py)
+- [ex010.py Desafio 8 Conversor de Medidas](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex010.py)
+- [ex011a.py Desafio 9 Tabuada](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex011a.py)
+- [ex011b.py Desafio 9 Tabuada](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex011b.py)
+- [ex011c.py Desafio 9 Tabuada](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex011c.py)
+- [ex012.py Desafio 10 Conversor de Moedas](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex012.py)
+- [ex013.py Desafio 11 Pintando Parede](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex013.py)
+- [ex014.py Desafio 12 Calculando Descontos](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex014.py)
+- [ex015.py Desafio 13 Reajuste Salarial](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex015.py)
+- [ex016.py Desafio 14 Conversor de Temperaturas](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex016.py)
+- [ex017.py Desafio 15 Aluguel de Carros](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex017.py)
 # Modulos Python
 - main.py Utilizando Módulos
 - ex000.py Desafio 16 Quebrando um número
