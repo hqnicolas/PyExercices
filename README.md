@@ -28,7 +28,7 @@
 - [ex003.py Desafio 19 Sorteando um item na lista](https://github.com/hqnicolas/PyExercices/blob/main/modulos/ex003.py)
 - [ex004.py Desafio 20 Sorteando uma ordem na lista](https://github.com/hqnicolas/PyExercices/blob/main/modulos/ex004.py)
 - [ex005.py Desafio 21 Tocando um MP3](https://github.com/hqnicolas/PyExercices/blob/main/modulos/ex005.py)
-  # [Manipulando Texto](https://github.com/hqnicolas/PyExercices/tree/main/Manipulando%20Texto)
+# [Manipulando Texto](https://github.com/hqnicolas/PyExercices/tree/main/Manipulando%20Texto)
 - [main.py Manipulando Texto](https://github.com/hqnicolas/PyExercices/blob/main/Manipulando%20Texto/main.py)
 - [ex001.py Desafio 22 Analisador de Textos](https://github.com/hqnicolas/PyExercices/blob/main/Manipulando%20Texto/ex001.py)
 - [ex002.py Desafio 23 Separando dígitos de um número](https://github.com/hqnicolas/PyExercices/blob/main/Manipulando%20Texto/ex002.py)
