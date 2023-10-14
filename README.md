@@ -28,23 +28,25 @@
 - [ex003.py Desafio 19 Sorteando um item na lista](https://github.com/hqnicolas/PyExercices/blob/main/modulos/ex003.py)
 - [ex004.py Desafio 20 Sorteando uma ordem na lista](https://github.com/hqnicolas/PyExercices/blob/main/modulos/ex004.py)
 - [ex005.py Desafio 21 Tocando um MP3](https://github.com/hqnicolas/PyExercices/blob/main/modulos/ex005.py)
-  # Manipulando Texto
-- main.py Manipulando Texto
-- ex001.py Desafio 22 Analisador de Textos
-- ex002.py Desafio 23 Separando dígitos de um número
-- ex003.py Desafio 24 Verificando as primeiras letras de um texto
-- ex004.py Desafio 25 Procurando uma string dentro de outra
-- ex005.py Desafio 26 Primeira e última ocorrência de uma string
-- ex006.py Desafio 27 Primeiro e último nome de uma pessoa
-# Condições em Python
-- main.py representação estruturada
-- ex001.py Desafio 28 Jogo da Adivinhação v.1.0
-- ex002.py Desafio 29 Radar eletrônico
-- ex003.py Desafio 30 Par ou Ímpar?
-- ex004.py Desafio 31 Custo da Viagem
-- ex005.py Desafio 32 Ano Bissexto
-- ex006.py Desafio 33 Maior e menor valores
-- ex007.py Desafio 34 Aumentos múltiplos
-- ex008.py Desafio 35 Analisando Triângulo v1.0
+  # [Manipulando Texto](https://github.com/hqnicolas/PyExercices/tree/main/Manipulando%20Texto)
+- [main.py Manipulando Texto](https://github.com/hqnicolas/PyExercices/blob/main/Manipulando%20Texto/main.py)
+- [ex001.py Desafio 22 Analisador de Textos](https://github.com/hqnicolas/PyExercices/blob/main/Manipulando%20Texto/ex001.py)
+- [ex002.py Desafio 23 Separando dígitos de um número](https://github.com/hqnicolas/PyExercices/blob/main/Manipulando%20Texto/ex002.py)
+- [ex003.py Desafio 24 Verificando as primeiras letras de um texto](https://github.com/hqnicolas/PyExercices/blob/main/Manipulando%20Texto/ex003.py)
+- [ex004.py Desafio 25 Procurando uma string dentro de outra](https://github.com/hqnicolas/PyExercices/blob/main/Manipulando%20Texto/ex004.py)
+- [ex005.py Desafio 26 Primeira e última ocorrência de uma string](https://github.com/hqnicolas/PyExercices/blob/main/Manipulando%20Texto/ex005.py)
+- [ex006.py Desafio 27 Primeiro e último nome de uma pessoa](https://github.com/hqnicolas/PyExercices/blob/main/Manipulando%20Texto/ex006.py)
+# [Condições em Python](https://github.com/hqnicolas/PyExercices/tree/main/Condicionamento)
+- [main.py representação estruturada](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/main.py)
+- [ex001a.py Desafio 28 Jogo da Adivinhação v.1.0](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex000a.py)
+- [ex001b.py Desafio 28 Jogo da Adivinhação v.2.0](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex000b.py)
+- [ex001c.py Desafio 28 Jogo da Adivinhação v.3.0](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex000c.py)
+- [ex002.py Desafio 29 Radar eletrônico](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex002.py)
+- [ex003.py Desafio 30 Par ou Ímpar?](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex003.py)
+- [ex004.py Desafio 31 Custo da Viagem](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex004.py)
+- [ex005.py Desafio 32 Ano Bissexto](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex005.py)
+- [ex006.py Desafio 33 Maior e menor valores](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex006.py)
+- [ex007.py Desafio 34 Aumentos múltiplos](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex007.py)
+- [ex008.py Desafio 35 Analisando Triângulo v1.0](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex008.py)
 # Certificados do Modulo
-- Desafio iniciante em Python
+- [Desafio iniciante em Python](https://github.com/hqnicolas/PyExercices/blob/main/Certificados/Python_Basico.jpg) [(Avaliação)](https://github.com/hqnicolas/PyExercices/blob/main/Certificados/Python_Basico_Avalia%C3%A7%C3%A3o.jpg)
