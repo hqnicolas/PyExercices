@@ -9,3 +9,22 @@
 # em até 2x no cartão: preço normal                                                                                    #
 # 3x ou mais no cartão: 20% de juros                                                                                   #
 ########################################################################################################################
+from time import sleep
+print('* Guichê de pagamentos *')
+v = float(input('Digite o valor á ser pago: R$'))
+print('* Condições de Pagamento *\n- Em Dinheiro: 1\n- Débito: 2\n- Até 2x no Crédito: 3\n- Acima de 3x no crédito: 4')
+o = int(input('Selecione de 1 á 4 sua opção: '))
+if o == 1:
+    t = v - (v * 10 / 100)
+    print('* Você Selecionou Pagamento em dinheiro! *\n- O Valor Total é de: R${:.2f}'.format(t))
+elif o == 2:
+    t = v - (v * 5 / 100)
+    print('* Você Selecionou Pagamento com Cartão de débito! *\n- O Valor Total é de: R${:.2f}'.format(t))
+elif o == 3:
+    print('* Você Selecionou Pagamento em até 2x no crédito! *\n- O Valor Total é de: R${:.2f}'.format(v))
+elif o == 4:
+    t = v + (v * 20 / 100)
+    print('* Você Selecionou Pagamento em mais de 3x no crédito! *\n- O Valor Total é de: R${:.2f}'.format(t))
+else:
+    print('* Opção invalida *')
+input('Enter para confirmar.')
