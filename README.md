@@ -46,7 +46,7 @@
 - [ex006.py Desafio 33 Maior e menor valores](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex006.py)
 - [ex007.py Desafio 34 Aumentos múltiplos](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex007.py)
 - [ex008.py Desafio 35 Analisando Triângulo v1.0](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex008.py)
-# Condições Aninhadas em Python (if..elif)
+# [Condições Aninhadas em Python (if..elif)](https://github.com/hqnicolas/PyExercices/tree/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es)
 - [main.py condição aninhada](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex000.py)
 - [ex001.py Desafio 36 Aprovando Empréstimo](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex001.py)
 - [ex002.py Desafio 37 Conversor de Bases Numéricas](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex002.py)
