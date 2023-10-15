@@ -47,15 +47,16 @@
 - [ex007.py Desafio 34 Aumentos múltiplos](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex007.py)
 - [ex008.py Desafio 35 Analisando Triângulo v1.0](https://github.com/hqnicolas/PyExercices/blob/main/Condicionamento/ex008.py)
 # Condições Aninhadas em Python (if..elif)
-- ex001.py Desafio 36 Aprovando Empréstimo
-- ex002.py Desafio 37 Conversor de Bases Numéricas
-- ex003.py Desafio 38 Comparando números
-- ex004.py Desafio 39 Alistamento Militar
-- ex005.py Desafio 40 Aquele clássico da Média
-- ex006.py Desafio 41 Classificando Atletas
-- ex007.py Desafio 42 Analisando Triângulos v2.0
-- ex008.py Desafio 43 Índice de Massa Corporal
-- ex009.py Desafio 44 Gerenciador de Pagamentos
-- ex010.py Desafio 45 GAME: Pedra Papel e Tesoura
+- [main.py condição aninhada](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex000.py)
+- [ex001.py Desafio 36 Aprovando Empréstimo](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex001.py)
+- [ex002.py Desafio 37 Conversor de Bases Numéricas](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex002.py)
+- [ex003.py Desafio 38 Comparando números](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex003.py)
+- [ex004.py Desafio 39 Alistamento Militar](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex004.py)
+- [ex005.py Desafio 40 Aquele clássico da Média](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex005.py)
+- [ex006.py Desafio 41 Classificando Atletas](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex006.py)
+- [ex007.py Desafio 42 Analisando Triângulos v2.0](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex007.py)
+- [ex008.py Desafio 43 Índice de Massa Corporal](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex008.py)
+- [ex009.py Desafio 44 Gerenciador de Pagamentos](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex009.py)
+- [ex010.py Desafio 45 GAME: Pedra Papel e Tesoura](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex010.py)
 # Certificados do Modulo
 - [Desafio iniciante em Python](https://github.com/hqnicolas/PyExercices/blob/main/Certificados/Python_Basico.jpg) [(Avaliação)](https://github.com/hqnicolas/PyExercices/blob/main/Certificados/Python_Basico_Avalia%C3%A7%C3%A3o.jpg)
