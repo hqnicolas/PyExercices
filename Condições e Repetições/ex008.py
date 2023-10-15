@@ -1,5 +1,5 @@
 ########################################################################################################################
-#  Script Python escrito em 13/10/2023 por Nicolas Pereira no Jetbrains Pycharm                                        #
+#  Script Python escrito em 15/10/2023 por Nicolas Pereira no Jetbrains Pycharm                                        #
 #  1ª aula de nível médio do curso de python cursoemvideo.com Desafio 43 condições e Repetições de codigo              #
 ########################################################################################################################
 # Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status de acordo:       #
@@ -9,3 +9,18 @@
 # - 30 até 40: Obesidade                                                                                               #
 # - Acima de 40: Obesidade Mórbida                                                                                     #
 ########################################################################################################################
+from math import pow
+print('* Calculo de IMC *')
+p = float(input('Digite seu peso: '))
+a = float(input('Digite sua altura: '))
+imc = p / pow (a, 2)
+if imc < 18.5:
+    print('Abaixo do peso!')
+elif 18.5 < imc < 25:
+    print('Peso ideal!')
+elif 25 <= imc < 30:
+    print('Sobrepeso peso!')
+elif 30 <= imc < 40:
+    print('Obesidade!')
+elif 40 <= imc:
+    print('Thais Carla?')
