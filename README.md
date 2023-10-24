@@ -58,5 +58,18 @@
 - [ex008.py Desafio 43 Índice de Massa Corporal](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex008.py)
 - [ex009.py Desafio 44 Gerenciador de Pagamentos](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex009.py)
 - [ex010.py Desafio 45 GAME: Pedra Papel e Tesoura](https://github.com/hqnicolas/PyExercices/blob/main/Condi%C3%A7%C3%B5es%20e%20Repeti%C3%A7%C3%B5es/ex010.py)
+# Repetições em Python (for)
+- main.py Estrutura de repetição for
+- ex001.py Desafio 46 – Contagem regressiva
+- ex002.py Desafio 47 – Contagem de pares
+- ex003.py Desafio 48 – Soma ímpares múltiplos de três
+- ex004.py Exercício 49 – Tabuada v.2.0
+- ex005.py Exercício 50 – Soma dos pares
+- ex006.py Exercício 51 – Progressão Aritmética
+- ex007.py Exercício 52 – Números primos
+- ex008.py Exercício 53 – Detector de Palíndromo
+- ex009.py Exercício 54 – Grupo da Maioridade
+- ex0010.py Exercício 55 – Maior e menor da sequência
+- ex0011.py Exercício 56 – Analisador completo
 # Certificados do Modulo
 - [Desafio iniciante em Python](https://github.com/hqnicolas/PyExercices/blob/main/Certificados/Python_Basico.jpg) [(Avaliação)](https://github.com/hqnicolas/PyExercices/blob/main/Certificados/Python_Basico_Avalia%C3%A7%C3%A3o.jpg)
