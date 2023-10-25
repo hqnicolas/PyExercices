@@ -1,5 +1,5 @@
 ########################################################################################################################
-#  Script Python escrito em 19/10/2023 por Nicolas Pereira no Jetbrains Pycharm                                        #
+#  Script Python escrito em 24/10/2023 por Nicolas Pereira no Jetbrains Pycharm                                        #
 #  aula 13 - nível médio do curso de python cursoemvideo.com exercicio de numero 049 laço de Repetição FOR             #
 ########################################################################################################################
 # Refaça o DESAFIO 009, mostrando a tabuada de um numero que o usuario escolher, so que agora com laço for             #
