@@ -3,6 +3,8 @@
 - Aulas Proferidas pelo www.cursoemvideo.com
 - Primeiros passos com o Python
 - Tratando dados e fazendo contas
+# Games:
+- [PyGameSnale](https://github.com/hqnicolas/PyGameSnake)
 # [Operadores Aritméticos](https://github.com/hqnicolas/PyExercices/tree/main/Operadores%20Aritm%C3%A9ticos)
 - [ex007a.py Desafio 5 Antecessor e Sucessor](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex007a.py)
 - [ex007b.py Desafio 5 Antecessor e Sucessor](https://github.com/hqnicolas/PyExercices/blob/main/Operadores%20Aritm%C3%A9ticos/ex007b.py)
